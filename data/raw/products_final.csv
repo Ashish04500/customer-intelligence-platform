@@ -1,0 +1,11 @@
+product_id,product_name,category,price,cost
+P0001,Wireless Mouse,Electronics,200.0,140.0
+P0002,Webcam,Home,234.0,117.0
+P0003,Laptop Stand,Sports,235.0,162.15
+P0004,Keyboard,Home,344.0,192.64
+P0005,Backpack,Accessories,567.0,357.21
+P0006,Running Shoes,Clothing,567.0,447.93
+P0007,Desk Lamp,Home,789.0,497.07
+P0008,Water Bottle,Home,890.0,694.2
+P0009,Headphones,Sports,1200.0,744.0
+P0010,Keyboard,Clothing,1233.0,826.11

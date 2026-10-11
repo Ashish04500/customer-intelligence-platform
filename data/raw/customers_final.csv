@@ -1,0 +1,11 @@
+customer_id,name,age,gender,city,region,signup_date
+C0001,Sonali Singh,24,Other,Bangalore,South,2025-01-16
+C0002,Mishruuuuu,43,Female,Pune,West,2025-01-18
+C0003,Manvi Singh,18,Female,Pune,West,2025-01-15
+C0004,Ashish Singh Parmar,43,Female,Bangalore,East,2025-01-13
+C0005,Priya Singh,61,Female,Delhi,North,2025-01-11
+C0006,Rahul Sharma,38,Male,Kolkata,East,2025-01-10
+C0007,Tanya Kumari,49,Other,Delhi,South,2025-01-12
+C0008,Krish Kumar,34,Female,Pune,East,2025-01-17
+C0009,Ajit Prasad,60,Male,Kolkata,East,2025-01-14
+C0010,Ajit Prasad,27,Male,Kolkata,East,2025-01-14
